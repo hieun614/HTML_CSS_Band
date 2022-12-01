@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../F8_Js"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "F8_Shop"
+  }
+}
